@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<survey>
+    <ProjectCode>123</ProjectCode>
+    <FormUrl>http://www.meh.com</FormUrl>
+    <Start_Period>01/01/2001</Start_Period>
+    <End_Period>01/01/2001</End_Period>
+    <LabId_In_UserName>True</LabId_In_UserName>
+    <Active>True</Active>
+    <SurveySections>
+        <SectionIndex>3</SectionIndex>
+        <Biomarker>AML</Biomarker>
+        <Disease>Lung Cancer</Disease>
+        <QuestionIds>1</QuestionIds>
+        <QuestionIds>2</QuestionIds>
+        <biomarker>AML</biomarker>
+        <sectionIndex>3</sectionIndex>
+    </SurveySections>
+    <active>True</active>
+    <end_Period>01/01/2001</end_Period>
+    <formUrl>http://www.meh.com</formUrl>
+    <labId_In_UserName>True</labId_In_UserName>
+    <projectCode>123</projectCode>
+    <start_Period>01/01/2001</start_Period>
+    <surveySections>
+        <SectionIndex>3</SectionIndex>
+        <Biomarker>AML</Biomarker>
+        <Disease>Lung Cancer</Disease>
+        <QuestionIds>1</QuestionIds>
+        <QuestionIds>2</QuestionIds>
+        <biomarker>AML</biomarker>
+        <sectionIndex>3</sectionIndex>
+    </surveySections>
+</survey>
